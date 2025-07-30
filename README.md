@@ -1,2 +1,2 @@
-# Bold-food
-Accompagner Bold dans le secteur de la delivery food
+# Bolt-food
+Accompagner Bolt dans le secteur de la delivery food
